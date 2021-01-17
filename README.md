@@ -6,5 +6,5 @@ Remaps cursor movement from the alt/option key to Command (Command is closer to 
 
 # Usage
 
-place the .json file in `~/.config/karabiner/assets/complex_modifications`, then enable it in Karabiner-elements: `Complex Modifications -> Rules -> Add Rule`
+Place the .json file in `~/.config/karabiner/assets/complex_modifications`, then enable it in Karabiner-elements: `Complex Modifications -> Rules -> Add Rule`
 

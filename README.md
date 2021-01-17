@@ -8,3 +8,8 @@ Remaps cursor movement from the alt/option key to Command (Command is closer to 
 
 Place the .json file in `~/.config/karabiner/assets/complex_modifications`, then enable it in Karabiner-elements: `Complex Modifications -> Rules -> Add Rule`
 
+
+# In windows:
+
+See: https://autohotkey.com/board/topic/76430-altcontrol-arrow-remap/
+

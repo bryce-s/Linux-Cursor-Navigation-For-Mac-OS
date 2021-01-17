@@ -5,7 +5,7 @@
     ],
     "rules": [
       {
-        "description": "Ctrl + Arrow Keys to Option + Arrow Keys",
+        "description": "Command + Arrow Keys to Option + Arrow Keys",
         "manipulators": [
           {
             "from": {
@@ -86,7 +86,7 @@
         ]
       },
       {
-        "description": "Ctrl + Shift + Arrow Keys to Option + Shift + Arrow Keys",
+        "description": "Command + Shift + Arrow Keys to Option + Shift + Arrow Keys",
         "manipulators": [
           {
             "from": {
@@ -175,7 +175,7 @@
         ]
       },
       {
-        "description": "Ctrl + BS/Del Keys to Option + BS/Del Keys",
+        "description": "Command + BS/Del Keys to Option + BS/Del Keys",
         "manipulators": [
           {
             "from": {
